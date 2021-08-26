@@ -10,7 +10,7 @@ The Project has been reviewed by Udacity and graded Meets Specifications. <br/>
 Here's a sumary of the steps involved.
 
 - Dataset used is the COCO data set by Microsoft.
-- Feature vectors for images are generated using a CNN based on the ResNet-50 architecture by Google.
+- Feature vectors for images are generated using a CNN based on the ResNet-50 architecture by Google. ![alt text](./images/resnet50.JPG)
 - Word embeddings are generated from captions for training images. NLTK was used for working with processing of captions.
 - Implemented an RNN decoder using LSTM cells.
 - Trained the network for nearly 3 hrs using GPU to achieve average loss of about 2%.
