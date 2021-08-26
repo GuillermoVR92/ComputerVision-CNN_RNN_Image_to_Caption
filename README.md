@@ -1,6 +1,6 @@
 # CNN-RNN-Image_to_Caption
 How to create a caption that describes an image with Deep Learning? With a CNN and a RNN combined.
-![Alt Example of a prediction][/image/predictionCNNRNN.jpg]
+![Alt text][./images/predictionCNNRNN.jpg]
 
 # UDACITY - Computer Vision Nanodegree Project 2 - Image-Captioning
 
